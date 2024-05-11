@@ -1,0 +1,22 @@
+{
+  "name": "docker-web-Photo-Browser",
+  "version": "1.0.0",
+  "description": "docker-web-Photo-Browser",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker-compose up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pulipuli.chen@gmail.com@github.com/pulipulichen/docker-web-Photo-Browser.git"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Pulipuli Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulipulichen/docker-web-Photo-Browser/issues"
+  },
+  "homepage": "https://github.com/pulipulichen/docker-web-Photo-Browser#readme"
+}
